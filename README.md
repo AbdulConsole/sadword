@@ -16,6 +16,8 @@ Once installed, "sadword" is a breeze to use. Simply run it from the command lin
 
 `sadword "Hello, SadSec Hackers and Dev! Golang is awesome!"`
 
+![sadword_example](./sadword_image.jpg)
+
 Let the magic unfold as your text transforms into Leet (1337) speak, adding a dash of digital charisma to your words.
 
 ## Future Improvements
